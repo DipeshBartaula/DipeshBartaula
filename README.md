@@ -1,12 +1,12 @@
 <h1 align="center">Hey there! I'm Dipesh Bartaula 👋 </h1>
-<h3 align="center">🚀 Backend Developer | MERN Stack | Cloud Enthusiast  🚀</h3>
+<h3 align="center">🚀 | Backend Developer | MERN Stack |  🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://media0.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47ns2vqkm8m63no7wq0pemfdc0882nfi55opxcbdzf&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Computer Engineering.
+  - 🎓 &nbsp; Completed Computer Engineering from IOE,TU.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
    
